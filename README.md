@@ -28,7 +28,11 @@ Here is the results from model after each epoch.
 
 
 
-https://github.com/GabruAru/Generative-Adversarial-Networks-for-Anime-Face-Generation/assets/84130891/4f76a599-ddee-4f13-90ea-66275f0da480
+
+https://github.com/GabruAru/Generative-Adversarial-Networks-for-Anime-Face-Generation/assets/84130891/d858fc18-6490-4576-ad64-0506ebc6199f
+
+
+
 
 
 
