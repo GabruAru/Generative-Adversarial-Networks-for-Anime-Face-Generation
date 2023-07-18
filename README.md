@@ -5,7 +5,11 @@ Deep neural networks are predominantly employed for supervised learning tasks li
 Generative modeling is an unsupervised learning endeavor in machine learning, where the primary aim is to grasp and capture the inherent patterns and structures within the input data. The model learns to represent the data distribution in such a manner that it can generate novel examples that closely resemble those present in the original dataset. This process involves automatically discovering the underlying regularities, allowing the model to produce new plausible samples that could feasibly have been drawn from the actual data.
 
 
+
+
 ![6NMdO9u (1)](https://github.com/GabruAru/Generative-Adversarial-Networks-for-Anime-Face-Generation/assets/84130891/3c1faf98-59ee-4c1b-8157-548f20aa7abc)
+
+
 
 
 In the realm of Generative Adversarial Networks (GANs), two key neural networks coexist: the Generator and the Discriminator. These networks engage in a competitive and cooperative dance during training.
@@ -22,5 +26,12 @@ This dynamic competition drives both networks to improve continuously until the 
 
 Here is the results from model after each epoch.
 
-https://github.com/GabruAru/Generative-Adversarial-Networks-for-Anime-Face-Generation/assets/84130891/9effc5df-cd59-4c95-a1b0-0f534248d0e4
+
+
+https://github.com/GabruAru/Generative-Adversarial-Networks-for-Anime-Face-Generation/assets/84130891/4f76a599-ddee-4f13-90ea-66275f0da480
+
+
+
+
+
 
